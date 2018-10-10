@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\vz647\desktop\example\rand_pass\rand_pass\main.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\vz647\desktop\example\rand_pass\rand_pass\main.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\vz647\desktop\example\rand_pass\rand_pass\main.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\vz647\desktop\example\rand_pass\rand_pass\main.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\vz647\desktop\example\rand_pass\rand_pass\main.cpp(11): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\vz647\desktop\example\rand_pass\rand_pass\main.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  rand_pass.vcxproj -> C:\Users\vz647\Desktop\example\rand_pass\Debug\rand_pass.exe
